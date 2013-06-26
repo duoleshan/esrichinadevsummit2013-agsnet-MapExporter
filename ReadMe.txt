@@ -1,0 +1,1 @@
+﻿Esri中国2013年开发者大会“ArcGIS 10.1 for Desktop扩展开发之路”将做演示示例代码。Demo在Visual Stdio 2010&ArcGIS Desktop10.1&ArcObjects SDK for Microsoft .NET环境下开发使用。这个示例代码是用来演示以Add-in方式创建一个Button，以实现在ArcMap中分块输出图片的功能，解决了因内存不足导致造成的输出图片的符号不全以及符号错误。
